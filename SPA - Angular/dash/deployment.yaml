@@ -1,33 +1,20 @@
-apiVersion: apps/v1 # for versions before 1.9.0 use apps/v1beta2 
-kind: Deployment 
-metadata: 
-  name: angular-app 
-spec: 
-  selector: 
-    matchLabels: 
-      app: angular-app 
-  replicas: 2 # tells deployment to run 2 pods matching the template 
-  template: 
-    metadata: 
-      labels: 
-        app: angular-app
-    spec: 
-      containers: 
-      - name: angular-app
-        image: angular-app:latest 
-        ports: 
-        - containerPort: 80 
----
-
-kind: Service 
-apiVersion: v1 
-metadata: 
-  name: angular-service 
-spec: 
-  selector: 
-    app: angular-app
-  ports: 
-  - protocol: TCP 
-    port: 80 
-    targetPort: 80 
-  type: NodePort 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello-world
+spec:
+  selector:
+    matchLabels:
+      app: hello-world
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: hello-world
+    spec:
+      containers:
+        - name: angular-app
+          image: angular-app:latest
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 80
