@@ -12,3 +12,11 @@ Voici le lien de notre model deeplearning qu'on a soumie au cours de ce competit
 
 ![image](https://user-images.githubusercontent.com/105943885/211331864-39e18b2b-d82b-43ed-a7da-0d18940174a2.png)
 
+
+### Consumption via SPA (Angular)
+
+Voici le résultat de notre page frontend, à partir laquelle on peut faire de prédiction concernant les âges des joueurs via un serveur FastAPI.
+
+![4](https://user-images.githubusercontent.com/105943885/211332109-3bf60e23-bea3-4306-89cc-9350e509f00e.PNG)
+
+
