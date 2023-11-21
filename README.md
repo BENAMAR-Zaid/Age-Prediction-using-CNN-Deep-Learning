@@ -19,4 +19,6 @@ Here's the result of our frontend page, from which we can predict player ages vi
 
 ![4](https://user-images.githubusercontent.com/105943885/211332109-3bf60e23-bea3-4306-89cc-9350e509f00e.PNG)
 
+![image](https://github.com/BENAMAR-Zaid/Deeplearning-PFM/assets/105943885/181da466-1eb4-41f0-91a9-eaf2c20fd68d)
+
 
