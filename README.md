@@ -28,8 +28,7 @@
 2. [ Project Architecture ](#arch)
 3. [ Data Cleaning and Model Building](#dataedamodel)
 4. [ Installation ](#installation)
-5. [ References ](#refs)
-6. [ Contact ](#contact)
+5. [ Contact ](#contact)
 <hr>
 
 ### 🕵️ Age Prediction Page
