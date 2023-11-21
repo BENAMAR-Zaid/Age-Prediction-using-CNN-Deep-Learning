@@ -177,5 +177,5 @@ kubectl apply -f dash/service.yaml
 <a name="contact"></a>
 ## 📨 Contact Me
 
-[LinkedIn]([https://www.linkedin.com/in/hamza-elbelghiti/](https://www.linkedin.com/in/zaid-benamar/)) •
+[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/](https://www.linkedin.com/in/zaid-benamar/) •
 [Gmail](zaid.benmr@gmail.com)
