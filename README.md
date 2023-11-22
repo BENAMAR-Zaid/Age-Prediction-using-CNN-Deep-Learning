@@ -6,7 +6,7 @@
   <div id="user-content-toc">
     <ul>
       <summary><h1 style="display: inline-block;"> NFL Big Data Bowl Age Prediction Project</h1></summary>
-    </ul>
+    </ul> 
   </div>
   
   <p>Gain insights using NFL Big data Bowl 2023 Dataset to predict players ages</p>
