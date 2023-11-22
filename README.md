@@ -84,7 +84,7 @@ Please refer to the respective notebook [Click here to view Notebook](https://ww
 Clone the repository:
 
 ```
-git clone https://github.com/Hamagistral/DataEngineers-Glassdoor.git
+git clone https://github.com/BENAMAR-Zaid/Age-Prediction-using-CNN-Deep-Learning.git
 ```
 
 ### - Run FastAPI
