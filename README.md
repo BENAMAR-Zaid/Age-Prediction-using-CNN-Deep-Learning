@@ -95,13 +95,13 @@ git clone https://github.com/BENAMAR-Zaid/Age-Prediction-using-CNN-Deep-Learning
 cd FastAPI
 ```
 
-3. Install the required packages:
+2. Install the required packages:
 
 ```
 pip install -r requirements.txt
 ```
 
-2. Launch project : 
+3. Launch project : 
 
 ```
 python -m uvicorn main:app --reload
@@ -152,13 +152,13 @@ ng serve
 cd "SPA - Angular"
 ```
 
-1. Build the Docker Image:
+2. Build the Docker Image:
 
 ```
 docker build -t angular-dashboard ./dash
 ```
 
-2. Run the Docker Container:
+3. Run the Docker Container:
 
 ```
 docker run -p 4200:4200 angular-dashboard
